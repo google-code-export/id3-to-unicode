@@ -1,0 +1,13 @@
+#summary id3_to_unicode options
+
+= Introduction =
+
+I tried to make this program as safe as possible. Therefore, by default it does not change any files, but only reads and shows the results on the screen. There are several options to control how the program behaves.
+
+
+= Options =
+
+The available options are:
+  * -r  search directories recursively, by default only the current directory is processed
+  * -u  actually *update* mp3 files, by default only screen output is shown
+  * -h  print help page
